@@ -2,9 +2,10 @@
 
 <p>Atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC de Sorocaba.</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,nodejs,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts)](https://skillicons.dev)
 
 #### Minhas redes
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 [<img src="./icons/LinkedIn.svg" width="48">](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
