@@ -2,17 +2,7 @@
 
 <p>Atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC de Sorocaba.</p>
 
-#### Linguagens que estou aprendendo
-<img src="./icons/HTML.svg" width="48">
-<img src="./icons/CSS.svg" width="48">
-<img src="./icons/JavaScript.svg" width="48">
-<img src="./icons/NodeJS-Dark.svg" width="48">
-<img src="./icons/TypeScript.svg" width="48">
-
-#### Ferramentas que utilizo
-<img src="./icons/MongoDB.svg" width="48">
-<img src="./icons/Postman.svg" width="48">
-<img src="./icons/Figma-Dark.svg" width="48">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,nodejs,ts)](https://skillicons.dev)
 
 #### Minhas redes
 [<img src="./icons/LinkedIn.svg" width="48">](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
