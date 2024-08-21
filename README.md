@@ -8,15 +8,15 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 kB Used in GitHub's Storage 
- > 
-> 🏆 95 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,5 +70,5 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 21/08/2024 12:03:48 UTC
+ Last Updated on 21/08/2024 18:42:21 UTC
 <!--END_SECTION:waka-->
