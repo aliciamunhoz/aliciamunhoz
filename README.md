@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
 
@@ -75,5 +75,5 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 24/08/2024 18:40:41 UTC
+ Last Updated on 25/08/2024 18:40:40 UTC
 <!--END_SECTION:waka-->
