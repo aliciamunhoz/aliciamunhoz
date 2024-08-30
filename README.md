@@ -11,7 +11,9 @@
 
 ### Ferramentas utilizadas:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,discord,figma,git,github,gmail,mongodb,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord,figma,git)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=github,gmail,mongodb,sublime)](https://skillicons.dev)
 
 #### Minhas redes
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
