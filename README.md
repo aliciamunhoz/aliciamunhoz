@@ -1,10 +1,16 @@
 # Olá, eu sou Alícia Munhóz
 
-<p>Atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC de Sorocaba.</p>
-<p>Linguagens que estou estudando:</p>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,java,py,latex)](https://skillicons.dev)
+<p>Sou formada em matemática pela UFSCar de Sorocabe e atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC de Sorocaba.</p>
 
-<p>Ferramentas utilizadas:</p>
+### Linguagens que estou estudando:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,py,latex)](https://skillicons.dev)
+
+### Ferramentas utilizadas:
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord,figma,git,github,gmail,mongodb,sublime)](https://skillicons.dev)
 
 #### Minhas redes
