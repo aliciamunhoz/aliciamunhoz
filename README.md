@@ -3,6 +3,7 @@
 <p>Atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC de Sorocaba.</p>
 <p>Linguagens que estou estudando:</p>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,java,py,latex)](https://skillicons.dev)
+
 <p>Ferramentas utilizadas:</p>
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord,figma,git,github,gmail,mongodb,sublime)](https://skillicons.dev)
 
