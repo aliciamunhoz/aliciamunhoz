@@ -19,8 +19,6 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.4%20thousand%20lines%20of%20code-blue)
@@ -90,5 +88,5 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 07/09/2024 19:11:10 UTC
+ Last Updated on 08/09/2024 19:11:18 UTC
 <!--END_SECTION:waka-->
