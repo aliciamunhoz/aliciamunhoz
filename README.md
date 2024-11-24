@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -93,5 +93,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2024 19:18:26 UTC
+ Last Updated on 24/11/2024 19:20:05 UTC
 <!--END_SECTION:waka-->
