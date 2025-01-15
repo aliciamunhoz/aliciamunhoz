@@ -64,13 +64,13 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +86,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2025 18:43:59 UTC
+ Last Updated on 15/01/2025 18:43:24 UTC
 <!--END_SECTION:waka-->
