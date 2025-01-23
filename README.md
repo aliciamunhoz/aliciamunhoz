@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,8 +28,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 3.6 kB Used in GitHub's Storage 
- > 
-> 🏆 34 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,17 +62,13 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     15 hrs 21 mins      █████████████████████████   99.26 % 
-TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     12 hrs 30 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Eclipse                  15 hrs 21 mins      █████████████████████████   99.26 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Eclipse                  12 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 21 mins      █████████████████████████   99.26 % 
-Mac                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Windows                  12 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +84,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2025 18:45:53 UTC
+ Last Updated on 23/01/2025 18:45:11 UTC
 <!--END_SECTION:waka-->
