@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,6 +28,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 3.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,15 +64,16 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     22 mins             █████████████░░░░░░░░░░░░   51.80 % 
-HTTP Request             20 mins             ████████████░░░░░░░░░░░░░   48.20 % 
+Java                     40 mins             ████████████████░░░░░░░░░   63.86 % 
+HTTP Request             20 mins             ████████░░░░░░░░░░░░░░░░░   32.42 % 
+Java Properties          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-IntelliJ IDEA            22 mins             █████████████░░░░░░░░░░░░   51.80 % 
-Postman                  20 mins             ████████████░░░░░░░░░░░░░   48.20 % 
+IntelliJ IDEA            43 mins             █████████████████░░░░░░░░   67.58 % 
+Postman                  20 mins             ████████░░░░░░░░░░░░░░░░░   32.42 % 
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +89,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2025 18:44:21 UTC
+ Last Updated on 30/01/2025 18:44:05 UTC
 <!--END_SECTION:waka-->
