@@ -62,14 +62,13 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     18 mins             ██████████████████████░░░   88.65 % 
-Java Properties          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +84,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2025 18:45:13 UTC
+ Last Updated on 06/02/2025 18:45:11 UTC
 <!--END_SECTION:waka-->
