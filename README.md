@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,8 +28,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 3.7 kB Used in GitHub's Storage 
- > 
-> 🏆 44 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,17 +62,17 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     1 hr 4 mins         ███████████████████████░░   90.28 % 
-Java Properties          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Properties               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Java                     1 hr 54 mins        ██████████████████░░░░░░░   70.77 % 
+Java Properties          38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-IntelliJ IDEA            57 mins             ████████████████████░░░░░   80.01 % 
-Unknown Editor           14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+IntelliJ IDEA            2 hrs 27 mins       ███████████████████████░░   91.15 % 
+Unknown Editor           14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +88,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2025 18:45:48 UTC
+ Last Updated on 13/02/2025 18:45:40 UTC
 <!--END_SECTION:waka-->
