@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -28,8 +28,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 3.7 kB Used in GitHub's Storage 
- > 
-> 🏆 44 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,5 +90,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2025 18:42:15 UTC
+ Last Updated on 23/02/2025 18:42:37 UTC
 <!--END_SECTION:waka-->
