@@ -19,15 +19,17 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 44 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,18 +64,17 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     5 hrs 14 mins       ██████████████████████░░░   89.82 % 
-XML                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-GitIgnore file           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Java                     3 hrs 37 mins       █████████████████████░░░░   85.93 % 
+XML                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+GitIgnore file           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 10 mins       ██████████████████░░░░░░░   71.51 % 
-Eclipse                  1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+IntelliJ IDEA            4 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +90,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2025 18:46:37 UTC
+ Last Updated on 01/03/2025 18:43:21 UTC
 <!--END_SECTION:waka-->
