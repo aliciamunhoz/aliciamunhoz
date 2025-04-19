@@ -29,8 +29,6 @@
 
 > 📦 6.7 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -64,18 +62,13 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     19 mins             █████████████████░░░░░░░░   68.95 % 
-XML                      5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Java Properties          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             ██████████████████████░░░   89.40 % 
-Windows                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +84,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2025 18:47:04 UTC
+ Last Updated on 19/04/2025 18:44:35 UTC
 <!--END_SECTION:waka-->
