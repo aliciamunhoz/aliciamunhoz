@@ -19,6 +19,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2041%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.1%20thousand%20lines%20of%20code-blue)
@@ -26,6 +28,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 6.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 65 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,13 +64,16 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              ██████████████░░░░░░░░░░░   55.85 % 
+Properties               0 secs              ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Java Properties          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,5 +89,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 18:48:32 UTC
+ Last Updated on 03/05/2025 18:46:31 UTC
 <!--END_SECTION:waka-->
