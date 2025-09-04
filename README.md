@@ -29,6 +29,8 @@
 
 > 📦 6.8 kB Used in GitHub's Storage 
  > 
+> 🏆 74 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -62,14 +64,13 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      1 hr 32 mins        ███████████████████░░░░░░   77.35 % 
-HTML                     26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +86,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2025 18:45:53 UTC
+ Last Updated on 04/09/2025 18:47:59 UTC
 <!--END_SECTION:waka-->
