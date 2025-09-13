@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 6.8 kB Used in GitHub's Storage 
+> 📦 6.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,13 +62,17 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               38 mins             ██████████████████░░░░░░░   72.53 % 
+Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+HTTP                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,5 +88,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2025 18:44:46 UTC
+ Last Updated on 13/09/2025 18:42:41 UTC
 <!--END_SECTION:waka-->
