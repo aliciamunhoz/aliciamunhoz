@@ -19,6 +19,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliciamunhozfrancodecamargo/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2058%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.1%20thousand%20lines%20of%20code-blue)
@@ -48,5 +50,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 18:43:28 UTC
+ Last Updated on 21/09/2025 18:45:37 UTC
 <!--END_SECTION:waka-->
