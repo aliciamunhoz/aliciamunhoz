@@ -1,13 +1,12 @@
-# Olá, eu sou Alícia Munhóz
+# Olá, sou Alícia Munhóz
 
-<p>Sou formada em matemática pela UFSCar de Sorocabe e atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC de Sorocaba.</p>
+Desenvolvedora back-end em formação, apaixonada por tecnologia e por aprender coisas novas. Trabalho principalmente com Java e Spring Boot, criando APIs e explorando boas práticas de desenvolvimento. Formada em Matemática e estudante de ADS, gosto de resolver problemas e transformar ideias em soluções simples e funcionais. 🚀
 
-### Linguagens que estou estudando:
+### Linguagens utilizadas:
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,nodejs,latex)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
-
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,py,latex)](https://skillicons.dev)
 
 ### Ferramentas utilizadas:
 
