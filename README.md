@@ -28,13 +28,13 @@ Desenvolvedora back-end em formação, apaixonada por tecnologia e por aprender 
 
 > 📦 7.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -85,5 +85,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2026 20:19:31 UTC
+ Last Updated on 14/05/2026 20:15:33 UTC
 <!--END_SECTION:waka-->
